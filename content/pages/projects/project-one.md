@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Telecom
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Telecom
 description: >-
   Interconnecter des sites a une échèle locale ou intercontinental, distribuer
   des accès fiables partout et a tout le monde. En respectant les besoins de
