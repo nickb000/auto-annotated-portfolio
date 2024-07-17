@@ -84,7 +84,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+41 22 545 45 45",
             "phoneAltText": "",
             "email": "contact@cuda.ch",
             "emailAltText": "My email",
