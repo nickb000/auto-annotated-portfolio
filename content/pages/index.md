@@ -82,7 +82,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Secteurs D'actIVITéS Specialisés
+    subtitle: Secteurs d'activités specialisés
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
