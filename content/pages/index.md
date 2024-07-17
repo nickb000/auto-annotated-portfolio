@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Modern IT infrastructure for business
+    title: INFRASTRUCTURE IT MODERNE POUR L'ENTREPRISE
     subtitle: >-
       VOTRE INFRASTRUCTURE INFORMATIQUE HEBERGÉE EN SUISSE OU MAINTENUE SUR SITE
       ASSISTANCE DANS LE QUOTIDIEN ET DANS VOS PROJETS SUPPORT INFORMATIQUE ET
