@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Finance
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Finance
 description: >-
   Permanence et accessibilité des outils statistique font désormais partie des
   préoccupations principales. Des outils d'intelligence et de production souple
