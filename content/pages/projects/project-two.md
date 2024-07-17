@@ -15,7 +15,7 @@ featuredImage:
   url: /images/Resized.webp
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
   altText: Project image
 ---
 
