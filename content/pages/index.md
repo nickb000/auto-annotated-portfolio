@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: CUDA services
 colors: colors-a
 backgroundImage:
   type: BackgroundImage

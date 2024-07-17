@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Telecom
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Telecom
 description: >-
   Interconnecter des sites a une échèle locale ou intercontinental, distribuer
   des accès fiables partout et a tout le monde. En respectant les besoins de
@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
+  url: /images/IT-Telecommunications_1200x628-BW.webp
   altText: Project image
 ---
 # La Relation Entre l'IT et les Télécommunications : Un Pilier de la Société Connectée

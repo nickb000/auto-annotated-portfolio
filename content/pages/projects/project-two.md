@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Industrie
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Industrie
 description: >-
   Forte de plusieurs années d'expériences en milieu industriel, notre équipe
   saura faire bénéficier au mieux des avancées technologiques au service de la
@@ -15,7 +15,7 @@ featuredImage:
   url: /images/Resized.webp
 media:
   type: ImageBlock
-  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
+  url: /images/Resized.webp
   altText: Project image
 ---
 # La Relation Entre l'IT et l'Industrie : Une Synergie Essentielle pour le Progrès Technologique
