@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
+  url: /images/IT-Telecommunications_1200x628-BW.webp
   altText: Project image
 ---
 # La Relation Entre l'IT et les Télécommunications : Un Pilier de la Société Connectée
