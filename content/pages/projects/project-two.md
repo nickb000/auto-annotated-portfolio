@@ -15,7 +15,7 @@ featuredImage:
   url: /images/Resized.webp
 media:
   type: ImageBlock
-  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
+  url: /images/Resized.webp
   altText: Project image
 ---
 # La Relation Entre l'IT et l'Industrie : Une Synergie Essentielle pour le Progrès Technologique
