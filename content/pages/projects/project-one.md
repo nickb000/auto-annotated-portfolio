@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
   altText: Project image
 ---
 
