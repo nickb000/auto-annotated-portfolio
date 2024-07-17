@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Secteurs d''activités specialisés :'
     actions:
       - type: Link
         label: See all projects
