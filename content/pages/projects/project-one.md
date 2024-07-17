@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Interconnecter des sites a une échèle locale ou intercontinental, distribuer
+  des accès fiables partout et a tout le monde. En respectant les besoins de
+  sécurité, les budgets et les derniers standards technologiques avec des
+  partenaires de confiances.
 featuredImage:
   type: ImageBlock
   url: /images/IT-Telecommunications_1200x628-BW.webp
