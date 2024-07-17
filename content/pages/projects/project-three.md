@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/2aaf356edcaf6096d2987541b4abbb6e.jpg
+  url: /images/Banner-image_10.2e16d0ba.fill-1600x900.jpg
   altText: Project image
 ---
 # La Relation Entre l'IT et la Finance : Une Révolution Numérique
