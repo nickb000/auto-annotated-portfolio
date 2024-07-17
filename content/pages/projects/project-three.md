@@ -5,9 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Permanence et accessibilité des outils statistique font désormais partie des
+  préoccupations principales. Des outils d'intelligence et de production souple
+  afin de faire face aux besoins de mobilisation de personnel et de déploiement
+  de succursale de plus en plus étendues.
 featuredImage:
   type: ImageBlock
   url: /images/Banner-image_10.2e16d0ba.fill-1600x900.jpg
