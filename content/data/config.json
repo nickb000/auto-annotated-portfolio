@@ -85,7 +85,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "+41224515151",
+            "phoneAltText": "",
             "email": "contact@cuda.ch",
             "emailAltText": "My email",
             "address": "14a chemin de Vuillonnex ch-1233 Bernex",
