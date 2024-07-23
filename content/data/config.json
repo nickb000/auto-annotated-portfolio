@@ -44,14 +44,14 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+41 22 545 45 45",
+            "phoneNumber": "",
             "phoneAltText": "",
-            "email": "contact@cuda.ch",
+            "email": "office@cuda.ch",
             "emailAltText": "My email",
             "address": "14a chemin de Vuillonnex ch-1233 Bernex",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify and Love](https://www.netlify.com/platform/)\n",
+        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
